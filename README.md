@@ -1,2 +1,2 @@
-# Alexan Bahay Dodger Fan dance
+# Dancing Dodger Demo
 3D & AR Dodger Fan Dance
