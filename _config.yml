@@ -11,6 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>BREADCRUMB</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"<b> LINKS</b><h/2></a>
   <br><br>
+  </style>
   theme: jekyll-theme-minimal
 # Google Analytics
 google_analytics: UA-000000000-0 
