@@ -3,8 +3,14 @@ logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2 style="color:#F26531;"><p style="text-align:center;"><b>HEADLINES</h2></b></p>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>ANNOUNCMENTS</b><a href="https://www.avenidapalmdesert.com/" onclick="getOutboundLink('https://www.avenidapalmdesert.com/'); return false;"<b> HERE</b><h/2></a>
+  <h2 style="text-align: center;" markdown="1"><b>ANNOUNCMENTS</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"<b> HERE</b><h/2></a>
   <br><br>
-theme: jekyll-theme-minimal
+  <h2 style="text-align: center;" markdown="1"><b>BREADCRUMB</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"<b> LINKS</b><h/2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>BREADCRUMB</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"<b> LINKS</b><h/2></a>
+  <br><br>
+  <h2 style="text-align: center;" markdown="1"><b>BREADCRUMB</b><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;"<b> LINKS</b><h/2></a>
+  <br><br>
+  theme: jekyll-theme-minimal
 # Google Analytics
 google_analytics: UA-000000000-0 
